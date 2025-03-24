@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=plymouth-theme-krypton
+Description=Simple Krypton Linux plymouth theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/plymouth-theme-krypton/images
+ScriptFile=/usr/share/plymouth/themes/plymouth-theme-krypton/plymouth-theme-krypton.script
