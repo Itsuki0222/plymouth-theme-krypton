@@ -7,16 +7,16 @@ Files should be placed in the Plymouth themes directory,
 which is usually `/usr/share/plymouth/themes`. You may install the theme by simply cloning the repository:
 
     # cd /usr/share/plymouth/themes/ 
-    # git clone https://github.com/farsil/monoarch.git 
+    # git clone https://github.com/Itsuki0222/plymouth-theme-krypton.git 
 
 Remember to change the Plymouth theme:
 
-    # plymouth-set-default-theme -R monoarch
+    # plymouth-set-default-theme -R plymouth-theme-krypton
 
 # Removal
 Simply remove the directory:
 
-    # rm -rf /usr/share/plymouth/themes/monoarch
+    # rm -rf /usr/share/plymouth/themes/plymouth-theme-krypton
     
 Remember to change your theme again otherwise Plymouth will fall back to its 
 default one.
