@@ -25,8 +25,5 @@ default one.
 DeviantArt user Kahlil88, author of the
 [paw-arch](http://kahlil88.deviantart.com/art/Paw-Arch-Plymouth-Theme-208418769)
 theme I used it as a base to build my code.
- 
-Arch Linux logo taken from
-[https://www.archlinux.org/art/](https://www.archlinux.org/art/).
 
 Spinner pictures and a large part of code taken from the default Plymouth themes.
